@@ -51,7 +51,7 @@ schools = [
         name:"University of Toronto",
         lat: 43.6628917,
         long:-79.3978451,
-        students:["Ishan Gupta"]
+        students:["Ishan Gupta", "Olivia Baek"]
     },
     {
         name:"Utah State University",
@@ -196,5 +196,11 @@ schools = [
         lat:39.9566127,
         long:-75.1921328,
         students:["Shaunak Shah"]
+    },
+    {
+        name:"Gap Year",
+        lat:1.3506065,
+        long:103.8193982,
+        students["Metha Shri"]
     }
 ]

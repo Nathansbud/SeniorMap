@@ -1,9 +1,10 @@
 function makeSchoolTooltip(i) {
     let toolTipHtml = "<div class='marker'>"
-    toolTipHtml += `<img class="logo" width="auto" height="100px" src="data/logos/${schools[i].name}.png"></img>`
+    if(schools[i].name != "Gap Year") {
+      toolTipHtml += `<img class="logo" width="auto" height="100px" src="data/logos/${schools[i].name}.png"></img>`
+    }
     toolTipHtml += `<h1 class="school">${schools[i].name}</h1>`
     for(student of schools[i].students) {
-        
         toolTipHtml += `<img class="student" width="60px" height="90px" src="data/photos/${student}.jpg"><img><p classs="name">${student}</p>`
     }
     toolTipHtml+= "</div>"
