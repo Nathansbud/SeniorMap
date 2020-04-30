@@ -67,8 +67,8 @@ schools = [
     },
     {
         name:"University of British Columbia",
-        lat:47.9921235,
-        long:-125.8440684,
+        lat:49.2608277,
+        long:-123.2476396,
         students:["Jason Kim", "Rianka Philip"]
     },
     {
