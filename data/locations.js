@@ -69,7 +69,7 @@ schools = [
         name:"University of British Columbia",
         lat:47.9921235,
         long:-125.8440684,
-        students:["Jason Kim", "Rianka Phillip"]
+        students:["Jason Kim", "Rianka Philip"]
     },
     {
         name:"Emily Carr University of Art + Design",
