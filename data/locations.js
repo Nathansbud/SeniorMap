@@ -1,8 +1,8 @@
 schools = [
     {
-        name:"Maastrict School of Management",
-        lat:60.6780355,
-        long:10.1679486,
+        name:"Maastricht School of Management",
+        lat:50.8462755,
+        long:5.6799642,
         students:["Alicia Hobdell"]
     },
     {
@@ -147,7 +147,7 @@ schools = [
         name:"University of Southern California",
         lat:34.0223519,
         long:-118.2873057,
-        students:["Shaan Navani", "Ryo Irizawa"]
+        students:["Shaan Navani", "Ryo Irizawa", "Tushar Gupta"]
     },
     {
         name:"Case Western Reserve University",
@@ -190,5 +190,11 @@ schools = [
         lat:32.8800604,
         long:-117.2362022,
         students:["Rana Lulla"]
+    },
+    {
+        name:"Drexel University",
+        lat:39.9566127,
+        long:-75.1921328,
+        students:["Shaunak Shah"]
     }
 ]
