@@ -201,6 +201,6 @@ schools = [
         name:"Gap Year",
         lat:1.3506065,
         long:103.8193982,
-        students["Metha Shri"]
+        students:["Metha Shri"]
     }
 ]
