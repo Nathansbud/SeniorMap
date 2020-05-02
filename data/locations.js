@@ -90,12 +90,6 @@ schools = [
         students:["Kashvi Goud"]
     },
     {
-        name:"Williams College",
-        lat:42.7128843,
-        long:-73.2053282,
-        students:["Aryan Kothari"]
-    },
-    {
         name:"University of Vienna",
         lat:48.2131855,
         long:16.3578617,
@@ -202,5 +196,11 @@ schools = [
         lat:1.3506065,
         long:103.8193982,
         students:["Metha Shri"]
+    },
+    {
+    	name:"Duke University",
+    	lat:36.0017001,
+    	long:-78.9389024,
+    	students:["Aryan Kothari"]
     }
 ]
