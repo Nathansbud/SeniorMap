@@ -202,5 +202,11 @@ schools = [
     	lat:36.0017001,
     	long:-78.9389024,
     	students:["Aryan Kothari"]
+    }, 
+    {
+    	name:"Johnson & Wales University",
+    	lat:41.8359647,
+    	long:-71.4786335,
+    	students:["Aaryan Sanghavi"]
     }
 ]
